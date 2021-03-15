@@ -74,6 +74,7 @@ class BookList extends Component {
           onDelete={this.onDelete}
           onEdit={this.onEdit}
           onToggleComplete={this.onToggleComplete}
+          logout={this.props.logout}
         />
       </div>
     );
