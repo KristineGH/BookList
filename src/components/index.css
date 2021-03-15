@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(240, 242, 243);
+}
+
+.bookList {
+   color:  rgb(48, 33, 4);;
+   width:  600px;
+   margin:  10px auto;
+}
+.bookList h1 {
+    text-align: center;
+}
+
+.createList {
+    background-color: rgb(48, 33, 4);
+    color: white;
+    margin:  10px auto;
+}
+.createList h3 {
+    margin: 0 0 10px 0 ;
+}
+
+.createList input {
+    width:  calc(576px / 3);
+    height: 20px;
+    outline: none;
+}
+
+.createList button {
+    cursor: pointer;
+    background-color: white;
+    outline: none;
+    width: 600px;
+
+}
+
+.list-item {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid  rgb(48, 33, 4);
+    margin-block: 3px;
+}
+
+.author {
+    text-size-adjust: auto;
+    text-align: end;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.list-action-buttons {
+    width: 51px;
+}
+
+.btn-edit {
+    width: 52px;
+}
+
+.new-input {
+    height: 68px;
+    width: 592px;
+}
+
+.list-action-new-buttons {
+    text-align: end;
+}
+
+.input-width {
+    width: 540px;
+}
+
+.aaa {
+    background-color: rgb(116, 29, 0);
+}

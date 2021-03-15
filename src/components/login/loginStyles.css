@@ -1,0 +1,32 @@
+html {
+    background: url("https://miro.medium.com/max/2698/1*YAaAjBYEDVI7ynN588t8fg.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.Lib {
+  color: rgb(64, 75, 78);
+}
+
+.input {
+  text-align: center;
+  margin: auto;
+  border: 0.5px solid black;
+  width: 420px;
+  height: 266px;
+  margin-top: 160px;
+}
+
+.inputs {
+  width: 280px;
+  margin: 15px;
+  padding: 3px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#btn {
+  width: 90px;
+  cursor: pointer;
+}
